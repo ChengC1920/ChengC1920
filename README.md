@@ -1,4 +1,4 @@
-## Hello GitHub 👋
+## 我是橙C 👋
 [![Mail Badge](https://img.shields.io/badge/-tanghuacheng1920@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tanghuacheng1920@gmail.com)](mailto:tanghuacheng1920@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
