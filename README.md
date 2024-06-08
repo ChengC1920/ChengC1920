@@ -9,11 +9,13 @@
 
 ## 🎯: 2024 年目标
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengC1920)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👨‍🎓：本科顺利毕业！研究生顺利入学！
 - 🎆：大厂实习！大厂实习！大厂实习！
 - 💌：爱情美满~~~
 - ✈️：出去看看！
-- 
+
 ## 🛠 技术栈 | Tech Stack
 
 <a href="https://chodocs.cn/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
