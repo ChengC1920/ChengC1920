@@ -12,17 +12,20 @@
 <table>
   <tr>
     <td>
-      <!-- 这里放左侧的内容 -->
-      <p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengC1920)](https://github.com/anuraghazra/github-readme-stats)</p>
+      <!-- 左侧内容 -->
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ChengC1920" alt="Anurag's GitHub stats">
+      </a>
     </td>
     <td>
-      <!-- 这里放 GitHub 统计信息卡片 -->
+      <!-- 右侧 GitHub 统计信息卡片 -->
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengC1920&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Top Langs">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 - 👨‍🎓：本科顺利毕业！研究生顺利入学！
