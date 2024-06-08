@@ -38,6 +38,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChengC1920&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
